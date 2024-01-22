@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="130" src="https://camo.githubusercontent.com/a00f0ce42700bbc2ffdaf0c33dbe2ed460abd84c384f4859b2f21a7d7937f20d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f63392f61662f35346339616632323637323165393535333961356364393539326436333562622e676966"  />
 
 ###
 
