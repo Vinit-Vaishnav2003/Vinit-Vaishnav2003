@@ -4,19 +4,6 @@
 
 <p align="center">I am a passionate Coader and a self learned Developer</p>
 
-###
-
-<div align="left">
-   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-
-
-###
 
 <img align="left" height="150" src="https://camo.githubusercontent.com/a00f0ce42700bbc2ffdaf0c33dbe2ed460abd84c384f4859b2f21a7d7937f20d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f63392f61662f35346339616632323637323165393535333961356364393539326436333562622e676966"  />
 
@@ -26,7 +13,7 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/vinit-vaishnav/)" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="[linkedin logo](https://www.linkedin.com/in/vinit-vaishnav/)"  />
 </div>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
