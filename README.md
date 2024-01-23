@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a passionate Coader and a self learned Developer</p>
+<p align="center">I am a passionate Coder and a self learned Developer</p>
 
 ###
 
