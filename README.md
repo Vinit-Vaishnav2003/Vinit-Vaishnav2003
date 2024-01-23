@@ -4,7 +4,14 @@
 
 <p align="center">I am a passionate Coader and a self learned Developer</p>
 
+###
 
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Vinit-Vaishnav2003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinit-Vaishnav2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+####
 <img align="left" height="350" src="https://camo.githubusercontent.com/a00f0ce42700bbc2ffdaf0c33dbe2ed460abd84c384f4859b2f21a7d7937f20d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f63392f61662f35346339616632323637323165393535333961356364393539326436333562622e676966"  />
 
 ###
