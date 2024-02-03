@@ -69,5 +69,5 @@
 </div>
 ###
 
-img src="https://raw.githubusercontent.com/Vinit-Vaishnav2Ø03/Vinit-Vaishnav20Ø3/output/snake.svg" alt="Snake animation" / >
+
 ###
