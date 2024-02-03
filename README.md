@@ -70,8 +70,6 @@
 
 ###
 
-
-
-
+<img src="https://raw.githubusercontent.com/Vinit-Vaishnav2Ø03/Vinit-Vaishnav2ØØ3/output/snake.svg" alt="Snake animation" />
 
 ###
