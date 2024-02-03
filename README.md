@@ -63,11 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <div>
-    <img src="https://raw.githubusercontent.com/Vinit-Vaishnav2003/Vinit-Vaishnav2003/output/snake.svg" alt="Snake animation" />
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/Vinit-Vaishnav2003/Vinit-Vaishnav2003/output/snake.svg" alt="Snake animation" width = "width/2" />
   </div>
 </div>
-###
 
-
-###
