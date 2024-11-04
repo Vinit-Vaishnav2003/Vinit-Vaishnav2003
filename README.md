@@ -10,10 +10,16 @@
 
   <div>
     <img src="https://streak-stats.demolab.com?user=Vinit-Vaishnav2003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinit-Vaishnav2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"       alt="languages graph"  />
-    <img src="https://graphicdesignjunction.com/wp-content/uploads/2020/02/css_js_code.jpg" alt="Coding image" width="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinit-Vaishnav2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"       alt="languages graph"  /> 
   </div>
+  </br>
+<div>
+ <img align="left" src="https://graphicdesignjunction.com/wp-content/uploads/2020/02/css_js_code.jpg" alt="Coding image" width="250"/>
+<p align="center" style="font-size: 15px; font-weight: bold; font-family: Arial, sans-serif; letter-spacing: 1px;">
+  Hi there! I'm Vinit Vaishnav, a passionate web developer with a knack for creating dynamic and responsive web applications using React.js. With a solid foundation in JavaScript, HTML, and CSS, I have built several projects that showcase my ability to turn ideas into functional and visually appealing websites. I thrive in collaborative environments and am always eager to learn and adapt to new technologies. My goal is to contribute to innovative projects and grow as a developer while making a positive impact in the tech community.
+</p>
 
+</div>
 
 ###
 
