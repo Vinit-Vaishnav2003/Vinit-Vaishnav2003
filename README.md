@@ -1,31 +1,36 @@
-<h1 align="left">Hi 👋! My name is Vinit Vaishnav</h1>
+## <h1 align="left">Hi 👋! My name is Vinit Vaishnav</h1>
+
+###
+<p align="left" style="font-size: 24px; font-weight: 25px; font-family: Arial, sans-serif; letter-spacing: 2px;">
+  I AM A CODER AND A SELF-TAUGHT DEVELOPER
+</p>
 
 ###
 
-<p align="center">I am a  Coder and a self learned Developer</p>
+
+  <div>
+    <img src="https://streak-stats.demolab.com?user=Vinit-Vaishnav2003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinit-Vaishnav2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"       alt="languages graph"  />
+    <img src="https://graphicdesignjunction.com/wp-content/uploads/2020/02/css_js_code.jpg" alt="Coding image" width="250"/>
+  </div>
+
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Vinit-Vaishnav2003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinit-Vaishnav2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-####
-<img align="left" height="350" src="https://camo.githubusercontent.com/a00f0ce42700bbc2ffdaf0c33dbe2ed460abd84c384f4859b2f21a7d7937f20d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f63392f61662f35346339616632323637323165393535333961356364393539326436333562622e676966"  />
-
-###
-
-<div align="left">
-<div align="left">
-  <a href="vinitvaishnavofficial@gmail.com" target="_blank">
+  <a href="mailto:vinitvaishnavofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vinit-vaishnav" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-  <br>
+
+###
+
+<br>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
@@ -63,8 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <div align="right">
-    <img src="https://raw.githubusercontent.com/Vinit-Vaishnav2003/Vinit-Vaishnav2003/output/snake.svg" alt="Snake animation" width = "width/2" />
-  </div>
 </div>
 
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Vinit-Vaishnav2003/Vinit-Vaishnav2003/output/snake.svg" alt="Snake animation" width="100%"/>
+</div>
