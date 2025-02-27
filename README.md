@@ -1,4 +1,4 @@
-## <h1 align="left">Hi 👋! My name is Vinit Vaishnav</h1>
+## <h1 align="left">Hi 👋! I am Vinit Vaishnav</h1>
 
 ###
 <p align="left" style="font-size: 24px; font-weight: 25px; font-family: Arial, sans-serif; letter-spacing: 2px;">
